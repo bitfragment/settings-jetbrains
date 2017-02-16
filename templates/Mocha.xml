@@ -1,0 +1,12 @@
+<templateSet group="Mocha">
+  <template name="describe" value="describe('$END$', function() {&#10;});" description="inserts Mocha describe statement" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="it" value="it('should $END$', function() {&#10;});&#10;" description="inserts Mocha it statement" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
