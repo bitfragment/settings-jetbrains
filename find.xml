@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../test_scratch.py - [scratch-py]'" />
-    <option name="defaultScopeName" value="File '.../test_scratch.py - [scratch-py]'" />
-    <option name="SEARCH_SCOPE" value="File '.../test_scratch.py - [scratch-py]'" />
+    <option name="customScope" value="File '.../test_scratch.js - [scratch-js]'" />
+    <option name="defaultScopeName" value="File '.../test_scratch.js - [scratch-js]'" />
+    <option name="SEARCH_SCOPE" value="File '.../test_scratch.js - [scratch-js]'" />
   </component>
 </application>
